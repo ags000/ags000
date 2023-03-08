@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Adrián Galdeano 👋
+# ![https://mouredev.com](https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg) Hola, mi nombre es Adrián Galdeano 👋
 ### Full-stack web developer
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
